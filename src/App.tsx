@@ -23,7 +23,7 @@ function App() {
       };
   }, []);
 
-  //intervalo()
+  
   return (
     <div className="App">
       <header className="App-header">
@@ -37,7 +37,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Aprende React
+          Aprende React en {process.env.NODE_ENV}
         </a>
       </header>
     </div>
