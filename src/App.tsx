@@ -37,7 +37,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-           Aprende React {process.env.NODE_ENV}
+           Aprende React
         </a>
       </header>
     </div>
