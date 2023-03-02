@@ -37,7 +37,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-           Aprende React con JE, Fernando e Irene {process.env.NODE_ENV}
+           Aprende React con JE, Fernando e Irene , Paco y Javi{process.env.NODE_ENV}
         </a>
       </header>
     </div>
